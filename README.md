@@ -5,8 +5,9 @@
 
 * Jihwan Lee Personal Project (Professor. Jaesung Park)
 
+## Device
 
-## Raspberry Pi, Arduino, PiCamera, DHT 11 sensor
+Raspberry Pi, Arduino, PiCamera, DHT 11 sensor
 
 ## Library
 
